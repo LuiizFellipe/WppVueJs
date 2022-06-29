@@ -13,7 +13,6 @@ VueCLI
 ## Configuração
 
 ```js
-import foobar
 
 npm run serve
 ```
