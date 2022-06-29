@@ -1,24 +1,7 @@
-# wpp
+# Integração WhatsApp e VueJs
 
-## Project setup
+## Projeto
 ```
-npm install
-```
+Projeto criado para envio de mensagens no WhatsApp
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+AXIOS + VueJs + Socket
