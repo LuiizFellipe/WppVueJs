@@ -14,7 +14,7 @@
           gerar QRcode
         </button>
         <br>
-        {{ teste }}s
+        {{ teste }}
         <br>
         {{ qrcoderen }}<br>
         <img width="500" height="500" style="object-fit:contain;" v-bind:src="imagem">
